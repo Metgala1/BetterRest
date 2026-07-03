@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-07-03T07:07:30Z",
+        "event" : "projectCreated",
+        "id" : "6B00CDFB-0922-4E6D-9EA8-783AADBEE8B1",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Atagwe Roger",
+  "createdDate" : "2026-07-03T07:07:30Z",
+  "description" : "",
+  "id" : "739DCD95-D35D-481B-BD6D-B428658AEBDB",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-07-03T07:07:30Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
